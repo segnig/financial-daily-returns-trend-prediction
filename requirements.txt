@@ -3,3 +3,6 @@ pandas
 matplotlib
 seaborn
 numpy
+
+statsmodels
+scipy
