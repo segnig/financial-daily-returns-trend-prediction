@@ -6,3 +6,5 @@ numpy
 
 statsmodels
 scipy
+pmdarima
+scikit-learn
